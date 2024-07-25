@@ -127,8 +127,9 @@ a:hover {
 
 @media (max-width: 800px) {
   section {
-    background-attachment: scroll;
-    height: 75vw;
+    /* background-attachment: scroll; */
+    /* height: 75vw; */
+    background-position: center;
   }
 }
 
